@@ -1,0 +1,1 @@
+#this is my script for assignment 0
